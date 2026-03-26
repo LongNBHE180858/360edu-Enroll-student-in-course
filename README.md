@@ -241,10 +241,3 @@ Request body:
 | Assign student to a class | `classId` gửi từ request body |
 | Create enrollment | `createEnrollment()` |
 | Confirm enrollment | JSON response success |
-
----
-
-## 7. Ghi chú
-- Dữ liệu đang là **fake data in-memory**.
-- Restart server sẽ reset dữ liệu.
-- Project này tập trung vào **business flow của UC-10**, chưa dùng database thật.
