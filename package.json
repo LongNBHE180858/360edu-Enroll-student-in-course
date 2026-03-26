@@ -1,0 +1,22 @@
+{
+  "name": "360edu-enroll-student-in-course",
+  "version": "1.0.0",
+  "description": "Node.js demo for UC-10 Enroll Student in Course with fake data",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "uc10",
+    "enrollment",
+    "fake-data"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
